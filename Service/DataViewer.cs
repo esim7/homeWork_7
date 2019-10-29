@@ -7,7 +7,6 @@ namespace Service
 {
     public class DataViewer
     {
-        int gameCount = 4;
         public Context DataContext { get; set; }
 
         public DataViewer(Context context)
